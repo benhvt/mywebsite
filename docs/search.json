@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-04-07T15:13:19+02:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Benjamin Hivert",
+      "author": [],
+      "contents": "\n\n          \n          \n          My Website\n          \n          \n          About\n          ☰\n          \n          \n      \n        \n          \n            Benjamin Hivert\n          \n          \n            \n              I’m a PhD Student in Biostatistic at the University of Bordeaux. I work in the SISTM from both Inria and Inserm institutes.\n              My main research focus are high-dimensional clustering particularly for genomics data\n            \n            \n              I’m a PhD Student in Biostatistic at the University of Bordeaux. I work in the SISTM from both Inria and Inserm institutes.\n              My main research focus are high-dimensional clustering particularly for genomics data\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-04-07T15:13:20+02:00"
+    }
+  ],
+  "collections": []
+}
